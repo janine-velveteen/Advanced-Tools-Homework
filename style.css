@@ -108,3 +108,9 @@
   .email-link:hover {
     text-decoration: underline;
   }
+
+  @media (max-width: 580px) {
+      .app-img {
+          display: none;
+      } 
+  }
