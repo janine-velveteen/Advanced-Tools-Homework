@@ -104,5 +104,11 @@
       .app-img {
           display: none;
       } 
-      
+      .yogurt-heading {
+          margin-top: -100px;
+      }
+
+      .container {
+          text-align: center;
+      }
   }
